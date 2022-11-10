@@ -1,5 +1,5 @@
 ### Hi Everyone 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bighan123)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭我就读于[湖南大学机械与运载工程学院](http://mve.hnu.edu.cn/), 导师是[**邵海东副教授**](http://grjl.hnu.edu.cn/p/33AB569E530CC623A302A907DA8BDF95), 研究方向包括**深度学习**，**知识蒸馏**，**视觉Transformer的工业智能化运用**
 - ⚡ 爱好运动，健身，摄影，喜欢旅游，美食。
 - 🌱近年来发表的主要论文如下：
